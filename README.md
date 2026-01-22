@@ -42,7 +42,7 @@ https://angelinachaika.github.io/zakrivayuschiy-teg-f/
 
 ## Структура проекта
 
-/
+```text
 ├── index.html
 ├── styles/
 │ ├── variables.css
@@ -58,3 +58,4 @@ https://angelinachaika.github.io/zakrivayuschiy-teg-f/
 ├── svg/
 │ └── floppy.svg
 └── README.md
+```
