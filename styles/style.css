@@ -3,7 +3,7 @@
   min-block-size: 100dvb;
   font-family: var(--main-font, sans-serif);
   font-variation-settings: "wght" var(--font-weight-body, 410);
-  background-color: var(--color-main, #fff);
+  background: var(--color-main, #fff);
   background-image: var(
     --bg-gradient,
     repeating-linear-gradient(
