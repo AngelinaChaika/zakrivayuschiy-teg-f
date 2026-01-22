@@ -54,7 +54,7 @@ https://angelinachaika.github.io/zakrivayuschiy-teg-f/
 ├── scripts/
 │ └── like.js
 ├── images/
-│ ├── _.jpg / _.webp / \*.avif
+│ ├── _.jpg / _.webp / _.avif
 ├── svg/
 │ └── floppy.svg
 └── README.md
